@@ -6,6 +6,9 @@ label:
   en_US: CareJobs.Now Healthcare Jobs
 description:
   en_US: Search open US healthcare jobs, posted pay, employers and job-market stats from CareJobs.Now, a free healthcare job board. No API key needed.
+tags:
+  - search
+  - business
 icon: icon.svg
 resource:
   memory: 268435456
